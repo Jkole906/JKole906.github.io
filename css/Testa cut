@@ -1,0 +1,43 @@
+<section id="testimonials" class="content-first">
+        <div class="container">
+        	<h2 class="scrollpoint sp-effect3 text-center">Testimonials</h2>
+        	<p class="scrollpoint sp-effect3 text-center">A few words from those who know me best.</p> 
+            <div class="row">
+            	
+                <!-- TESTIMONIAL 1 - START -->
+                <div class="col-sm-6 scrollpoint sp-effect1">
+                    <div class="media">
+                        <a class="pull-left" href="#"><img class="media-object img-circle" src="image/PERSON1.jpg" alt=""></a>
+                        <div class="media-body">
+                            <h4 class="media-heading">PERSON FULL NAME</h4>
+                            <span>PERSON JOB TITLE</span>
+                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam nibh. Nunc varius facilisis eros. Sed erat. In in velit quis arcu ornare laoreet. Curabitur adipiscing luctus massa. Integer ut purus ac augue commodo commodo. Nunc nec mi eu justo tempor consectetuer. Etiam vitae nisl. In dignissim lacus ut ante. Cras elit lectus, bibendum a, adipiscing vitae, commodo et, dui. Ut tincidunt tortor. Donec nonummy, enim in lacinia pulvinar, velit tellus scelerisque augue, ac posuere libero urna eget neque. Cras ipsum. Vestibulum pretium, lectus nec venenatis volutpat, purus lectus ultrices risus, a condimentum risus mi et quam. Pellentesque auctor fringilla neque. Duis eu massa ut lorem iaculis vestibulum. Maecenas facilisis elit sed justo. Quisque volutpat malesuada velit. 
+
+                                    
+                                    </p>
+                        </div>
+                    </div>
+                </div>
+                <!-- TESTIMONIAL 1 - END -->
+                
+                <!-- TESTIMONIAL 2 - START -->
+                <div class="col-sm-6 scrollpoint sp-effect2">
+                    <div class="media">
+                        <a class="pull-left" href="#"><img class="media-object img-circle" src="image/PERSON2.jpg" alt=""></a>
+                        <div class="media-body">
+                            <h4 class="media-heading">PERSON FULL NAME</h4>
+                            <span>PERSON JOB TITLE</span>
+                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nam nibh. Nunc varius facilisis eros. Sed erat. In in velit quis arcu ornare laoreet. Curabitur adipiscing luctus massa. Integer ut purus ac augue commodo commodo. Nunc nec mi eu justo tempor consectetuer. Etiam vitae nisl. In dignissim lacus ut ante. Cras elit lectus, bibendum a, adipiscing vitae, commodo et, dui. Ut tincidunt tortor. Donec nonummy, enim in lacinia pulvinar, velit tellus scelerisque augue, ac posuere libero urna eget neque. Cras ipsum. Vestibulum pretium, lectus nec venenatis volutpat, purus lectus ultrices risus, a condimentum risus mi et quam. Pellentesque auctor fringilla neque. Duis eu massa ut lorem iaculis vestibulum. Maecenas facilisis elit sed justo. Quisque volutpat malesuada velit. 
+
+                                    Nunc at velit quis lectus nonummy eleifend. Curabitur eros. Aenean ligula dolor, gravida auctor, auctor et, suscipit in, erat. Sed malesuada, enim ut congue pharetra, massa elit convallis pede, ornare scelerisque libero neque ut neque. In at libero. Curabitur molestie. Sed vel neque. Proin et dolor ac ipsum elementum malesuada. Praesent id orci. Donec hendrerit. In hac habitasse platea dictumst. Aenean sit amet arcu a turpis posuere pretium. 
+                                    
+                                    </p>
+                        </div>
+                    </div>
+                </div>
+                <!-- TESTIMONIAL 2 - END -->
+                
+            </div>
+            
+        </div>
+    </section>
