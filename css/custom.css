@@ -425,11 +425,16 @@ h4 {
 	color: #237004;
 
 }
+.btn-reference:focus{
+border:2px solid white;
+border-bottom:3px solid white;
+color:#6d2199;
+}
 
 .btn-reference:hover {
 	border:2px solid white;
 	border-bottom:3px solid white;
-	color:#1e9aec;
+	color:#7bcaff;
 
 	
 }
