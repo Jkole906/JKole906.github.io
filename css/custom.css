@@ -53,7 +53,7 @@
 	top:114px;
 	padding-left:17px;
 	padding-top:17px;
-	background-color:#ffffff;
+	background-color:#181818;
 	color:#0f0f0f;
 	border-top-right-radius:15px;
 	border-bottom-right-radius:15px;
@@ -252,6 +252,7 @@
 html,
 body {
 	height:100%;
+	background-color:#2B2B2B
 }
 
 body {
