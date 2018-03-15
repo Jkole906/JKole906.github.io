@@ -368,7 +368,8 @@ h4 {
 	background-color:#3e4d81;
 	border-color:#3b4b7b;
 	border-radius: 20px;
-	box-shadow: 5px 10px 20px rgb(70, 70, 70);
+	box-shadow: 5px 10px 20px rgb(46, 46, 46);
+
 }
 
 .btn-secondary {
@@ -477,7 +478,6 @@ h4 {
 	padding:7px 0 0 0;
 	width:50px;
 	border:2px;
-	border-radius:100;
 	border-radius: 50px;
 	box-shadow: 5px 10px 20px rgb(29, 29, 29);
 
@@ -1362,7 +1362,7 @@ blockquote footer {
 	color:#FFFFFF;
 	padding:0 12px;
 	text-align:left;
-		box-shadow: 8px 5px 5px rgb(110, 110, 110);
+		box-shadow: 8px 5px 5px rgb(46, 46, 46);
 
 }
 
@@ -1635,9 +1635,9 @@ blockquote footer {
 	
 	.navbar-default .navbar-toggle {
 		margin:0;
-		background-color:#fff600;
+		background-color:#1b487c;
 		border:0;
-		border-radius:0;
+		border-radius:10;
 		padding:3px 0 0;
 		height:50px;
 		width:50px;
@@ -1647,7 +1647,7 @@ blockquote footer {
 	
 	.navbar-default .navbar-toggle:hover, 
 	.navbar-default .navbar-toggle:focus {
-		background-color: white;
+		background-color: rgb(175, 105, 0);
 	}
 	
 	.navbar-brand{
