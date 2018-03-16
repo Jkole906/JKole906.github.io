@@ -483,8 +483,8 @@ color:#6d2199;
 	padding:7px 0 0 0;
 	width:50px;
 	border:2px;
+	border-color: #ffffff;
 	border-radius: 50px;
-	box-shadow: 5px 10px 20px rgb(29, 29, 29);
 
 }
 
@@ -533,9 +533,7 @@ color:#6d2199;
 header {
 	text-align:center;
 	background-color:#0f0f0f;
-	text-shadow: 5px 10px 20px rgb(0, 0, 0);
-	box-shadow: 5px 10px 20px rgb(0, 0, 0);
-    
+	text-shadow: 5px 10px 20px rgb(0, 0, 0); 
 }
 
 .jumbotron {
@@ -951,7 +949,7 @@ blockquote footer {
 .grid li {
 	display: inline-block;
 	width: 350px;
-	margin: 0;
+	margin: 0px 0px 0px -29px;
 	padding: 20px;
 	text-align: left;
 	position: relative;
@@ -1636,6 +1634,8 @@ blockquote footer {
 	.navbar-logo {
 		padding:5px 0 0 15px;
 		width:55px;
+		border-radius: 500px;
+
 	}
 	
 	.navbar-default .navbar-toggle {
